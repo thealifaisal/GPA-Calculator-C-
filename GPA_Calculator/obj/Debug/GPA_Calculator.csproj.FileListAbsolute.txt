@@ -1,0 +1,11 @@
+D:\FAST\Personal Projects\GPA Calculator\GPA_Calculator\GPA_Calculator\bin\Debug\GPA_Calculator.exe.config
+D:\FAST\Personal Projects\GPA Calculator\GPA_Calculator\GPA_Calculator\bin\Debug\GPA_Calculator.exe
+D:\FAST\Personal Projects\GPA Calculator\GPA_Calculator\GPA_Calculator\bin\Debug\GPA_Calculator.pdb
+D:\FAST\Personal Projects\GPA Calculator\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator.csprojResolveAssemblyReference.cache
+D:\FAST\Personal Projects\GPA Calculator\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator.Form1.resources
+D:\FAST\Personal Projects\GPA Calculator\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator.Properties.Resources.resources
+D:\FAST\Personal Projects\GPA Calculator\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator.csproj.GenerateResource.Cache
+D:\FAST\Personal Projects\GPA Calculator\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator.exe
+D:\FAST\Personal Projects\GPA Calculator\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator.pdb
+D:\FAST\Personal Projects\GPA Calculator\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator.Form2.resources
+D:\FAST\Personal Projects\GPA Calculator\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator.Form3.resources
